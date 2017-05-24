@@ -1,4 +1,4 @@
-# Skyline Programming 1, Semester 2
+# Semester 2 of Skyline HS Programming 1
 
 ## Group Project
 
