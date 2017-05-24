@@ -2,7 +2,7 @@
 
 ## Group Project
 
-For the end of semester group project, we created a side-scrolling platformer about a purple samurai who takes on the world.
+For the end of semester group project, my programming group created a side-scrolling platformer about a purple samurai who takes on the world.
 
 We spent over a month working on this game with gravity and enemies. I coded the entire game (1,137 lines!), mostly focusing on creating a physics environment, and enemy and platform classes which can be called easily. We used the Processing.py coding environment, and it was the biggest coding challenge of the year as it required researching many concepts I was unfamiliar with.
 
