@@ -1,12 +1,10 @@
-## Portfolio
+# Portfolio
 
-### Group Project
+## Group Project
 
-We titled our game about a samurai who takes on the world [Purple Man Fights Back](https://drive.google.com/drive/folders/0B6569lscHHIcSFdPbkNYanNRVzA).
+For the end of semester group project, we created a side-scrolling platformer about a purple samurai who takes on the world.
 
-It is a side-scrolling platformer with gravity and enemies.
-
-We spent over a month working on our game.
+It is a side-scrolling platformer with gravity and enemies which we spent over a month working on it. I coded the entire game, mostly focusing on creating a physics environment, and enemy and platform classes which can be called easily.
 
 ### Photos of Gameplay:
 
@@ -14,35 +12,13 @@ We spent over a month working on our game.
 ![Gameplay](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/game.png)
 ![Boss Fight](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/boss.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link to game: [Purple Man Fights Back](https://drive.google.com/drive/folders/0B6569lscHHIcSFdPbkNYanNRVzA)
 
-### Markdown
+[Source code]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Poem Generator
 
-```markdown
-Syntax highlighted code block
+When asked to code a program exhibiting class inheritance, I chose the novel route of writing a poem generator. My program prompts the user for input, and then takes the inputted words, along with a few randomly selected words, to write a poem similar to those you can create out of magnets on the side of your fridge. There are three modes: free verse, rhyming couplet, and sentence form.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/killingmelody/killingmelody.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Source code]
