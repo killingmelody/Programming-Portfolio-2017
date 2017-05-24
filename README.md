@@ -4,7 +4,7 @@
 
 For the end of semester group project, we created a side-scrolling platformer about a purple samurai who takes on the world.
 
-It is a side-scrolling platformer with gravity and enemies which we spent over a month working on it. I coded the entire game (1,137 lines!), mostly focusing on creating a physics environment, and enemy and platform classes which can be called easily.
+We spent over a month working on this game with gravity and enemies. I coded the entire game (1,137 lines!), mostly focusing on creating a physics environment, and enemy and platform classes which can be called easily. We used the Processing.py coding environment, and it was the biggest coding challenge of the year as it required researching many concepts I was unfamiliar with.
 
 ### Photos of Gameplay:
 
@@ -33,3 +33,48 @@ In my free time between projects, I created a small applet which lets users expl
 ![DNA Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/dna.png)
 
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/DNA%20Mutation%20Sim)
+
+
+## Number Puzzle
+
+Another applet I created for fun outside of class was this small number puzzle program. It generates a string of four numbers, scrambles it, then prints the numbers is ascending order along with some hints to the scrambled order. The user then has to enter the correct order which the numbers were rearranged in.
+
+![Puzzle Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/puzzle.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Number%20Puzzle)
+
+
+## Pig Latin Converter
+
+During the semester, when exploring string manipulation in Python, we were tasked with creating a converter program which took a user inputted name and re-arranged it into pig-latin using string concatenation.
+
+![Converter Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/pig.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Pig%20Latin%20Converter)
+
+
+## Age Calculator
+
+One of our assignments was to create a program where a user-inputted birthday is processed through an algorithm which calculates their current age as a combination of years, months and days. This age calculator tested our ability to create case statements.
+
+![Calculator Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/birthday.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Age%20Calculator)
+
+
+## Dice Simulator
+
+To test our ability with arrays, we were challenged to create a simulator for dice rolls. My adaptation of the program allows the user to input number of faces and rolls, resulting in a list of generated values as well as diagnostic information regarding the simulation.
+
+![Dice Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/dice.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Dice%20Sim)
+
+
+## 99 Bottles Program
+
+This is a classic program testing basic comprehension of looping. This was our first coding assignment for the semester, and although simple, it taught me the basics of the Python language.
+
+![Bottles Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/bottles.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/99%20Bottles)
