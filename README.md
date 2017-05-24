@@ -29,3 +29,7 @@ When asked to code a program exhibiting class inheritance, I chose the novel rou
 ## DNA Mutation Simulation
 
 In my free time between projects, I created a small applet which lets users explore how strings of DNA mutate, with possibilites such as a duplication mutation and base-pair insertion possible. The user chooses how long to run the program, and it outputs the resultant string of DNA at the end.
+
+![DNA Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/dna.png)
+
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/DNA%20Mutation%20Sim)
