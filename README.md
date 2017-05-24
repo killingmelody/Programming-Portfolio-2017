@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](Screen Shot 2017-05-24 at 11.39.20 AM.png)
+![Start Screen](https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.39.20%20AM.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
