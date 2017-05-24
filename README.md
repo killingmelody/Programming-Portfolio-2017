@@ -20,5 +20,6 @@ Link to game: [Purple Man Fights Back](https://drive.google.com/drive/folders/0B
 
 When asked to code a program exhibiting class inheritance, I chose the novel route of writing a poem generator. My program prompts the user for input, and then takes the inputted words, along with a few randomly selected words, to write a poem similar to those you can create out of magnets on the side of your fridge. There are three modes: free verse, rhyming couplet, and sentence form.
 
+![Poem Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/poem.png)
 
-[Source code]
+[Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Poem%20Generator)
