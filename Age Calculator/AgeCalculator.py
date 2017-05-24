@@ -4,7 +4,7 @@
 import time;
 tm = time.localtime(time.time())
 
-birthday = raw_input("Input your birthday as YYYY/MM/DD: ")
+birthday = input("Input your birthday as YYYY/MM/DD: ")
 if len(birthday) == 10 :
     
     dAge = tm[2] - int(birthday[8:10])
@@ -27,7 +27,7 @@ if len(birthday) == 10 :
         mAge += 12
         yAge -= 1
         
-    print "You are " + str(yAge) + " years, " + str(mAge) + " months, and " + str(dAge) + " days old"
+    print("You are " + str(yAge) + " years, " + str(mAge) + " months, and " + str(dAge) + " days old")
     
 else :
-    print "You have entered an incorrect number of characters"
+    print("You have entered an incorrect number of characters")
