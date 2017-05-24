@@ -3,8 +3,8 @@
 
 vowels = "aeiouAEIOU"
 
-firstName = raw_input('Type your first name and hit enter: ')
-lastName = raw_input('Do the same for your last name: ')
+firstName = input('Type your first name and hit enter: ')
+lastName = input('Do the same for your last name: ')
 
 if firstName[0] in vowels : #check for starting vowel in first name
     firstName += "way"
@@ -16,4 +16,4 @@ if lastName[0] in vowels : #check for starting vowel in last name
 else:
     lastName = lastName[1:] + lastName[0] + "ay"
 
-print "\nYour pig latin name is: " + firstName.capitalize() + ", " + lastName.capitalize()
+print("\nYour pig latin name is: " + firstName.capitalize() + ", " + lastName.capitalize())
