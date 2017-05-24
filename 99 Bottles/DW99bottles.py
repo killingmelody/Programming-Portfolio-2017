@@ -1,4 +1,5 @@
 #99 bottles code
+#Written by Dylan Webb on 1.23.17
 
 i = 99
 while i > 0:
