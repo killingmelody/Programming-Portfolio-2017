@@ -4,13 +4,15 @@
 
 We titled our game about a samurai who takes on the world [Purple Man Fights Back](https://drive.google.com/drive/folders/0B6569lscHHIcSFdPbkNYanNRVzA).
 
-Photos of Gameplay:
-![Start Screen]
-(https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.39.20%20AM.png)
-![Gameplay]
-(https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.40.10%20AM.png)
-![Boss Fight]
-(https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.42.58%20AM.png)
+It is a side-scrolling platformer with gravity and enemies.
+
+We spent over a month working on our game.
+
+### Photos of Gameplay:
+
+![Start Screen](https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.39.20%20AM.png)
+![Gameplay](https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.40.10%20AM.png)
+![Boss Fight](https://github.com/killingmelody/Programming_Portfolio_2017/blob/master/Photos/Screen%20Shot%202017-05-24%20at%2011.42.58%20AM.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
