@@ -1,6 +1,8 @@
-## Group Project
+## Portfolio
 
-[Purple Man Fights Back](https://drive.google.com/drive/folders/0B6569lscHHIcSFdPbkNYanNRVzA) to maintain and preview the content for your website in Markdown files.
+### Group Project
+
+We titled our game about a samurai who takes on the world [Purple Man Fights Back](https://drive.google.com/drive/folders/0B6569lscHHIcSFdPbkNYanNRVzA).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
