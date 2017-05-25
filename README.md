@@ -57,7 +57,7 @@ During the semester, when exploring string manipulation in Python, we were taske
 
 One of our assignments was to create a program where a user-inputted birthday is processed through an algorithm which calculates their current age as a combination of years, months and days. This age calculator tested our ability to create case statements.
 
-![Calculator Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/birthday.png)
+![Calculator Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/date.png)
 
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Age%20Calculator)
 
