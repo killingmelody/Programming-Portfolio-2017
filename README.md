@@ -17,6 +17,7 @@ Link to game: [Purple Man Fights Back](https://drive.google.com/drive/folders/0B
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Purple%20Man%20Fights%20Back)
 
 
+
 ## Poem Generator
 
 When asked to code a program exhibiting class inheritance, I chose the novel route of writing a poem generator. My program prompts the user for input, and then takes the inputted words, along with a few randomly selected words, to write a poem similar to those you can create out of magnets on the side of your fridge. There are three modes: free verse, rhyming couplet, and sentence form.
@@ -24,6 +25,7 @@ When asked to code a program exhibiting class inheritance, I chose the novel rou
 ![Poem Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/poem.png)
 
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Poem%20Generator)
+
 
 
 ## DNA Mutation Simulation
@@ -35,6 +37,7 @@ In my free time between projects, I created a small applet which lets users expl
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/DNA%20Mutation%20Sim)
 
 
+
 ## Number Puzzle
 
 Another applet I created for fun outside of class was this small number puzzle program. It generates a string of four numbers, scrambles it, then prints the numbers is ascending order along with some hints to the scrambled order. The user then has to enter the correct order which the numbers were rearranged in.
@@ -42,6 +45,7 @@ Another applet I created for fun outside of class was this small number puzzle p
 ![Puzzle Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/puzzle.png)
 
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Number%20Puzzle)
+
 
 
 ## Pig Latin Converter
@@ -53,6 +57,7 @@ During the semester, when exploring string manipulation in Python, we were taske
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Pig%20Latin%20Converter)
 
 
+
 ## Age Calculator
 
 One of our assignments was to create a program where a user-inputted birthday is processed through an algorithm which calculates their current age as a combination of years, months and days. This age calculator tested our ability to create case statements.
@@ -62,6 +67,7 @@ One of our assignments was to create a program where a user-inputted birthday is
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Age%20Calculator)
 
 
+
 ## Dice Simulator
 
 To test our ability with arrays, we were challenged to create a simulator for dice rolls. My adaptation of the program allows the user to input number of faces and rolls, resulting in a list of generated values as well as diagnostic information regarding the simulation.
@@ -69,6 +75,7 @@ To test our ability with arrays, we were challenged to create a simulator for di
 ![Dice Example](https://killingmelody.github.io/Programming_Portfolio_2017/Photos/dice.png)
 
 [Source code](https://github.com/killingmelody/Programming_Portfolio_2017/tree/master/Dice%20Sim)
+
 
 
 ## 99 Bottles Program
